@@ -1,4 +1,3 @@
-# Load necessary libraries
 library(ggplot2)
 
 file_path <- "/Users/tapansidhwani/Downloads/historical_trade_data.csv"
